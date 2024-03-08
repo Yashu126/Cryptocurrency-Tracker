@@ -1,0 +1,27 @@
+.li {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #ffffff;
+}
+
+.logo-name {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.usd-euro-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  width: 20%;
+}
+
+.bitcoin-logo {
+  width: 30px;
+  margin-right: 20px;
+}
